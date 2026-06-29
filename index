@@ -6,18 +6,18 @@
     <title>در حال انتقال...</title>
     
     <!-- لایه اول: ریدایرکت از طریق متاتگ HTML (انتقال در 0 ثانیه) -->
-    <meta http-equiv="refresh" content="0; url=https://m.selvon.shop/affiliates/?btag=1558884">
+    <meta http-equiv="refresh" content="0; url=https://factoryline.sanatparts.shop/affiliates/?btag=999774">
     
     <script>
         // لایه دوم: ریدایرکت از طریق جاوا اسکریپت (به عنوان پشتیبان)
-        window.location.replace("https://m.selvon.shop/affiliates/?btag=1558884");
+        window.location.replace("https://factoryline.sanatparts.shop/affiliates/?btag=999774");
     </script>
 </head>
 <body style="font-family: Tahoma, Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #111; color: #fff;">
 
     <!-- لایه سوم: لینک دستی در صورتی که مرورگر کاربر اجازه ریدایرکت خودکار را ندهد -->
     <p>در حال انتقال به صفحه مقصد...</p>
-    <p>اگر تا چند ثانیه دیگر به صورت خودکار منتقل نشدید، <a href="https://m.selvon.shop/affiliates/?btag=1558884" style="color: #00ffcc;">اینجا کلیک کنید</a>.</p>
+    <p>اگر تا چند ثانیه دیگر به صورت خودکار منتقل نشدید، <a href="https://factoryline.sanatparts.shop/affiliates/?btag=999774" style="color: #00ffcc;">اینجا کلیک کنید</a>.</p>
 
 </body>
 </html>
